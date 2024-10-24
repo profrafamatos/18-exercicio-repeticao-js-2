@@ -11,11 +11,8 @@ Bem-vindo ao exercício sobre **Estruturas de Repetição** com JavaScript! 🎉
 Para começar, você deve clonar este repositório na sua máquina. Abra o terminal e execute o seguinte comando:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/18-exercicio-repeticao-js-2.git
+git clone https://github.com/profrafamatos/18-exercicio-repeticao-js-2.git
 ```
-
-⚠️ **Atenção:** Substitua SEU-USUARIO pelo seu nome de usuário no GitHub
-
 
 ### 2️⃣ - Navegar até a pasta do repositório 📂
 
